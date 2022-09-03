@@ -2,6 +2,7 @@
 Tris Replogle
 ### Term Year 
 2022-2023
+
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
 - Course 1 : Precalculus 
